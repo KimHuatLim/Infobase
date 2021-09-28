@@ -21,4 +21,4 @@ https://fhir.epic.com/Specifications
 These were open source api, not necessary mean for our project, just for new comer like me to understand the FHIR.
 
 
-![image](https://github.com/WingsMaker/Infobase/Referral.jpg)
+![image](https://wingsmaker.github.io/Infobase/Referral.jpg)
