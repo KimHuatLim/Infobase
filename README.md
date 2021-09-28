@@ -16,9 +16,10 @@ App Type :
 Web App ( Serverless via GITHUB ), support desktop mode as well as mobile device mode.
 
 API Info   :
-http://hapi.fhir.org/home 
-https://fhir.epic.com/Specifications
-These were open source api, not necessary mean for our project, just for new comer like me to understand the FHIR.
+[FHIR HAPI](http://hapi.fhir.org/home )
+[EPIC api](https://fhir.epic.com/Specifications)
+
+These were open source api, not necessary mean for real project work, just for new comer to understand the FHIR.
 
 
 ![image](https://wingsmaker.github.io/Infobase/Referral.jpg)
