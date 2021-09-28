@@ -6,8 +6,6 @@ Name       :
 
 Purpose   :
 Prototype for capturing the requirements and understanding the data services using API. ( Wireframe concept )
-Not a real app for the “to-be” ACO-ICO project.
-
 
 Platform  : 
 Windows, Mac,  Android, IOS over public internet as well as HVPN 
@@ -16,7 +14,7 @@ App Type :
 Web App ( Serverless via GITHUB ), support desktop mode as well as mobile device mode.
 
 API Info   :
-[FHIR HAPI](http://hapi.fhir.org/home )
+[FHIR HAPI](http://hapi.fhir.org/home ) and 
 [EPIC api](https://fhir.epic.com/Specifications)
 
 These were open source api, not necessary mean for real project work, just for new comer to understand the FHIR.
