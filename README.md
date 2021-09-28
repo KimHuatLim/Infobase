@@ -2,7 +2,7 @@
 Just for sharing, it's a simple web app for myself to understand more about the data and API around it.
 
 Name       :
-[Infobase](https://wingsmaker.github.io/Infobase/Infobase.html)
+[Infobase](https://wingsmaker.github.io/Infobase/index.html)
 
 Purpose   :
 Prototype for capturing the requirements and understanding the data services using API. ( Wireframe concept )
